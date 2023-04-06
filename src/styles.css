@@ -1,3 +1,4 @@
+
 h1 {
     color: hotpink;
     font-family: cursive;
@@ -6,5 +7,5 @@ h1 {
 body {
 height: 100vh;
 color: #1f1f1f;
-background: linear-gradient(to bottom, #bada55, #c0ffee);
+background: #2222;
 }
