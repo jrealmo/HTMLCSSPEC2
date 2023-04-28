@@ -1,0 +1,2 @@
+const e=document.querySelectorAll(".seccion");document.querySelectorAll(".seccion-botones");e.forEach(((o,c)=>{o.addEventListener("click",(()=>{const c=o.querySelector(".seccion-contenido");"none"===c.style.display?(e.forEach((e=>{e.querySelector(".seccion-contenido").style.display="none"})),c.style.display="block"):c.style.display="none"}))}));
+//# sourceMappingURL=index.0da6f314.js.map

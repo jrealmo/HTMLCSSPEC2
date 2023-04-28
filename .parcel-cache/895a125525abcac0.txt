@@ -1,14 +1,26 @@
-8289
-55/home/jrealmo/mi-proyecto/dist/gastronomia.28a13bce.jpg1682641647345744034 0
-48/home/jrealmo/mi-proyecto/dist/index.6e0359af.js1682641648295743985 0
-53/home/jrealmo/mi-proyecto/dist/index.dfee0d6a.css.map1682641648305743984 0
-51/home/jrealmo/mi-proyecto/dist/templos.b6d6aaeb.jpg1682641647345744034 0
-48/home/jrealmo/mi-proyecto/dist/arte.0e936844.jpg1682641647345744034 0
-51/home/jrealmo/mi-proyecto/dist/cultura.ce110eb0.jpg1682641648165743991 0
-52/home/jrealmo/mi-proyecto/dist/index.6e0359af.js.map1682641648305743984 0
-49/home/jrealmo/mi-proyecto/dist/kyoto.970d998c.jpg1682641648165743991 0
-43/home/jrealmo/mi-proyecto/dist/cultura.html1682641648295743985 0
-42/home/jrealmo/mi-proyecto/dist/musica.html1682641648295743985 0
+8352
+51/home/jrealmo/mi-proyecto/dist/fushimi.32721478.jpg1682711844085566854 0
+46/home/jrealmo/mi-proyecto/dist/pages/sado.html1682711852265567187 0
+47/home/jrealmo/mi-proyecto/dist/pages/heijo.html1682711852265567187 0
+48/home/jrealmo/mi-proyecto/dist/pages/kabuki.html1682711852265567187 0
+53/home/jrealmo/mi-proyecto/dist/pages/okonomiyaki.html1682711852265567187 0
+50/home/jrealmo/mi-proyecto/dist/pages/takoyaki.html1682711852265567187 0
+49/home/jrealmo/mi-proyecto/dist/pages/todaiji.html1682711852265567187 0
+36/home/jrealmo/mi-proyecto/dist/pages1682711852265567187 1
+41/home/jrealmo/mi-proyecto/dist/Osaka.html1682711852265567187 0
+50/home/jrealmo/mi-proyecto/dist/naniwa.0236e2f3.jpg1682711844085566854 0
+55/home/jrealmo/mi-proyecto/dist/gastronomia.28a13bce.jpg1682711844325566854 0
+49/home/jrealmo/mi-proyecto/dist/heian.25dcf5c5.jpg1682711852175567177 0
+51/home/jrealmo/mi-proyecto/dist/todaiji.7bc50180.jpg1682711844085566854 0
+54/home/jrealmo/mi-proyecto/dist/kushikatsu.4c6e1631.jpg1682711844095566854 0
+52/home/jrealmo/mi-proyecto/dist/index.0789d342.js.map1682711852265567187 0
+51/home/jrealmo/mi-proyecto/dist/templos.b6d6aaeb.jpg1682711844095566854 0
+48/home/jrealmo/mi-proyecto/dist/arte.0e936844.jpg1682711844095566854 0
+51/home/jrealmo/mi-proyecto/dist/cultura.ce110eb0.jpg1682711844325566854 0
+49/home/jrealmo/mi-proyecto/dist/kyoto.970d998c.jpg1682711844325566854 0
+43/home/jrealmo/mi-proyecto/dist/cultura.html1682711852265567187 0
+48/home/jrealmo/mi-proyecto/dist/sado.123b6225.jpg1682711844095566854 0
+52/home/jrealmo/mi-proyecto/dist/index.0da6f314.js.map1682711852265567187 0
 35/home/jrealmo/mi-proyecto/.cache/b91682640639225752769 1
 71/home/jrealmo/mi-proyecto/.cache/6e/2109a5a5a99e2f0a11d6d73db100bc.json1682641488405747162 0
 35/home/jrealmo/mi-proyecto/.cache/b71682640639225752769 1
@@ -139,22 +151,37 @@
 35/home/jrealmo/mi-proyecto/.cache/6d1682640639215752770 1
 32/home/jrealmo/mi-proyecto/.cache1682640639235752769 1
 38/home/jrealmo/mi-proyecto/package.json1682641634175745241 0
+50/home/jrealmo/mi-proyecto/src/img/categ/kabuki.jpg1682677070271617600 0
+49/home/jrealmo/mi-proyecto/src/img/categ/heian.jpg1682680132041842400 0
+49/home/jrealmo/mi-proyecto/src/img/categ/heijo.jpg1682680146678201200 0
+48/home/jrealmo/mi-proyecto/src/img/categ/sado.jpg1682677918931164000 0
+51/home/jrealmo/mi-proyecto/src/img/categ/todaiji.jpg1682679166490682100 0
+52/home/jrealmo/mi-proyecto/src/img/categ/takoyaki.jpg1682675173772150800 0
+51/home/jrealmo/mi-proyecto/src/img/categ/ukiyo-e.jpg1682677168634334100 0
 51/home/jrealmo/mi-proyecto/src/img/index/cultura.jpg1682620447850268000 0
+55/home/jrealmo/mi-proyecto/src/img/index/mapa_kansai.jpg1682615591970784100 0
 52/home/jrealmo/mi-proyecto/src/img/index/historia.jpg1682620631091988300 0
 48/home/jrealmo/mi-proyecto/src/img/index/nara.jpg1682615223170673500 0
 51/home/jrealmo/mi-proyecto/src/img/index/templos.jpg1682620575839797100 0
 48/home/jrealmo/mi-proyecto/src/img/index/arte.jpg1682620114864721500 0
 49/home/jrealmo/mi-proyecto/src/img/index/osaka.jpg1682615105360767400 0
 55/home/jrealmo/mi-proyecto/src/img/index/gastronomia.jpg1682621766113494500 0
-33/home/jrealmo/mi-proyecto/src/img1682614581517063977 1
-40/home/jrealmo/mi-proyecto/src/index.html1682641435295742965 0
-40/home/jrealmo/mi-proyecto/src/styles.css1682641472675746577 0
-46/home/jrealmo/mi-proyecto/src/gastronomia.html1682640782635722118 0
-40/home/jrealmo/mi-proyecto/src/Kyoto.html1682640932735737017 0
+33/home/jrealmo/mi-proyecto/src/img1682675678155568335 1
+40/home/jrealmo/mi-proyecto/src/index.html1682711331835571312 0
+40/home/jrealmo/mi-proyecto/src/styles.css1682711749435566457 0
+45/home/jrealmo/mi-proyecto/src/pages/sado.html1682711416515572244 0
+54/home/jrealmo/mi-proyecto/src/img/categ/kushikatsu.jpg1682675331607184500 0
+46/home/jrealmo/mi-proyecto/src/pages/heijo.html1682711396815571773 0
+49/home/jrealmo/mi-proyecto/src/pages/takoyaki.html1682711432025572558 0
+47/home/jrealmo/mi-proyecto/src/pages/ukiyoe.html1682711445635572134 0
+46/home/jrealmo/mi-proyecto/src/gastronomia.html1682711370275571463 0
+40/home/jrealmo/mi-proyecto/src/Kyoto.html1682711342415571167 0
+40/home/jrealmo/mi-proyecto/src/scripts.js1682673620095579559 0
 61/home/jrealmo/mi-proyecto/node_modules/resolve-from/readme.md1680823522482692963 0
 60/home/jrealmo/mi-proyecto/node_modules/resolve-from/index.js1680823522482692963 0
 64/home/jrealmo/mi-proyecto/node_modules/resolve-from/package.json1680823522482692963 0
 51/home/jrealmo/mi-proyecto/node_modules/resolve-from1680823522482692963 1
+55/home/jrealmo/mi-proyecto/src/img/categ/shitennouji.jpg1682679108628704200 0
 63/home/jrealmo/mi-proyecto/node_modules/load-json-file/readme.md1680823522422692962 0
 62/home/jrealmo/mi-proyecto/node_modules/load-json-file/index.js1680823522422692962 0
 66/home/jrealmo/mi-proyecto/node_modules/load-json-file/package.json1680823522422692962 0
@@ -283,7 +310,7 @@
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/AE.js1680823522002692956 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/TW.js1680823522022692956 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/DM.js1680823522012692956 0
-39/home/jrealmo/mi-proyecto/src/img/index1682630243857069886 1
+39/home/jrealmo/mi-proyecto/src/img/index1682706342115572000 1
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/ZM.js1680823522032692956 0
 74/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/alt-eu.js1680823522032692956 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/AL.js1680823522002692956 0
@@ -334,6 +361,7 @@
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/PW.js1680823522022692956 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/CI.js1680823522012692956 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/NO.js1680823522022692956 0
+49/home/jrealmo/mi-proyecto/dist/index.1b75733e.css1682711852265567187 0
 74/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/alt-sa.js1680823522032692956 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/PH.js1680823522022692956 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/TZ.js1680823522022692956 0
@@ -367,6 +395,7 @@
 73/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/cors.js1680823521982692955 0
 76/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/flexbox.js1680823521992692955 0
 84/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/getrandomvalues.js1680823521992692955 0
+55/home/jrealmo/mi-proyecto/dist/okonomiyaki.c0af0250.jpg1682711844325566854 0
 86/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/deviceorientation.js1680823521992692955 0
 75/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/stream.js1680823522002692956 0
 74/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/mpeg4.js1680823521992692955 0
@@ -439,7 +468,6 @@
 84/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/insert-adjacent.js1680823521992692955 0
 85/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/css-motion-paths.js1680823521982692955 0
 87/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/element-from-point.js1680823521992692955 0
-49/home/jrealmo/mi-proyecto/dist/index.dfee0d6a.css1682641648295743985 0
 86/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/channel-messaging.js1680823521982692955 0
 82/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/html5semantic.js1680823521992692955 0
 77/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/svg-smil.js1680823522002692956 0
@@ -520,7 +548,7 @@
 76/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/dataset.js1680823521992692955 0
 77/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/fontface.js1680823521992692955 0
 78/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/svg-fonts.js1680823522002692956 0
-42/home/jrealmo/mi-proyecto/src/cultura.html1682640808135762657 0
+42/home/jrealmo/mi-proyecto/src/cultura.html1682711366895571366 0
 92/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/registerprotocolhandler.js1680823522002692956 0
 73/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/spdy.js1680823522002692956 0
 92/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/date-tolocaledatestring.js1680823521992692955 0
@@ -639,6 +667,7 @@
 82/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/input-pattern.js1680823521992692955 0
 89/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/intersectionobserver.js1680823521992692955 0
 79/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/css-sticky.js1680823521992692955 0
+48/home/jrealmo/mi-proyecto/dist/index.0da6f314.js1682711852265567187 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/BO.js1680823522012692956 0
 65/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features1680823522002692956 1
 75/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/browserVersions.js1680823521982692955 0
@@ -912,6 +941,7 @@
 54/home/jrealmo/mi-proyecto/node_modules/clone/clone.iml1680823522032692956 0
 55/home/jrealmo/mi-proyecto/node_modules/clone/.npmignore1680823522032692956 0
 54/home/jrealmo/mi-proyecto/node_modules/clone/README.md1680823522032692956 0
+55/home/jrealmo/mi-proyecto/dist/shitennouji.4974fe4b.jpg1682711844315566854 0
 67/home/jrealmo/mi-proyecto/node_modules/rimraf/dist/mjs/opt-arg.d.ts1680823522512692964 0
 52/home/jrealmo/mi-proyecto/node_modules/clone/LICENSE1680823522032692956 0
 68/home/jrealmo/mi-proyecto/node_modules/spdx-expression-parse/scan.js1680823522522692964 0
@@ -1084,7 +1114,7 @@
 61/home/jrealmo/mi-proyecto/node_modules/is-string/package.json1680823522222692959 0
 71/home/jrealmo/mi-proyecto/node_modules/es-set-tostringtag/test/index.js1680823522162692958 0
 48/home/jrealmo/mi-proyecto/node_modules/is-string1680823522222692959 1
-52/home/jrealmo/mi-proyecto/dist/historia.6250943e.jpg1682641648165743991 0
+52/home/jrealmo/mi-proyecto/dist/historia.6250943e.jpg1682711844325566854 0
 64/home/jrealmo/mi-proyecto/node_modules/weak-lru-cache/index.d.ts1680823522572692965 0
 58/home/jrealmo/mi-proyecto/node_modules/weak-lru-cache/dist1680823522572692965 1
 68/home/jrealmo/mi-proyecto/node_modules/weak-lru-cache/LRFUExpirer.js1680823522572692965 0
@@ -1134,6 +1164,7 @@
 80/home/jrealmo/mi-proyecto/node_modules/string.prototype.padend/implementation.js1680823522532692964 0
 69/home/jrealmo/mi-proyecto/node_modules/string.prototype.padend/.nycrc1680823522532692964 0
 71/home/jrealmo/mi-proyecto/node_modules/string.prototype.padend/index.js1680823522532692964 0
+35/home/jrealmo/mi-proyecto/src/pages1682704299805568477 1
 72/home/jrealmo/mi-proyecto/node_modules/string.prototype.padend/README.md1680823522532692964 0
 70/home/jrealmo/mi-proyecto/node_modules/string.prototype.padend/LICENSE1680823522532692964 0
 74/home/jrealmo/mi-proyecto/node_modules/string.prototype.padend/polyfill.js1680823522532692964 0
@@ -1161,6 +1192,7 @@
 58/home/jrealmo/mi-proyecto/node_modules/cosmiconfig/LICENSE1680823522042692956 0
 63/home/jrealmo/mi-proyecto/node_modules/cosmiconfig/package.json1680823522042692956 0
 79/home/jrealmo/mi-proyecto/node_modules/dom-serializer/lib/foreignNames.d.ts.map1680823522072692957 0
+55/home/jrealmo/mi-proyecto/src/img/categ/okonomiyaki.jpg1682675285266164800 0
 68/home/jrealmo/mi-proyecto/node_modules/dom-serializer/lib/index.d.ts1680823522072692957 0
 66/home/jrealmo/mi-proyecto/node_modules/dom-serializer/lib/index.js1680823522072692957 0
 66/home/jrealmo/mi-proyecto/node_modules/postcss-merge-rules/src/lib1682640644365752427 1
@@ -1219,6 +1251,7 @@
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/KY.js1680823522012692956 0
 88/home/jrealmo/mi-proyecto/node_modules/htmlnano/lib/modules/minifyConditionalComments.js1680823522202692959 0
 73/home/jrealmo/mi-proyecto/node_modules/htmlnano/lib/modules/minifyJson.js1680823522202692959 0
+47/home/jrealmo/mi-proyecto/dist/pages/heian.html1682711852245567185 0
 84/home/jrealmo/mi-proyecto/node_modules/htmlnano/lib/modules/removeAttributeQuotes.js1680823522202692959 0
 74/home/jrealmo/mi-proyecto/node_modules/htmlnano/lib/modules/mergeStyles.js1680823522202692959 0
 63/home/jrealmo/mi-proyecto/node_modules/htmlnano/lib/htmlnano.js1680823522202692959 0
@@ -1367,6 +1400,7 @@
 75/home/jrealmo/mi-proyecto/node_modules/rimraf/dist/cjs/src/rimraf-native.js1680823522502692964 0
 64/home/jrealmo/mi-proyecto/node_modules/spdx-correct/package.json1680823522522692964 0
 82/home/jrealmo/mi-proyecto/node_modules/update-browserslist-db/check-npm-version.js1680823522562692965 0
+51/home/jrealmo/mi-proyecto/src/pages/festivales.html1682711384135571758 0
 68/home/jrealmo/mi-proyecto/node_modules/update-browserslist-db/cli.js1680823522562692965 0
 70/home/jrealmo/mi-proyecto/node_modules/update-browserslist-db/utils.js1680823522562692965 0
 70/home/jrealmo/mi-proyecto/node_modules/update-browserslist-db/index.js1680823522562692965 0
@@ -1422,7 +1456,6 @@
 72/home/jrealmo/mi-proyecto/node_modules/weak-lru-cache/tests/benchmark.js1680823522572692965 0
 55/home/jrealmo/mi-proyecto/node_modules/isexe/windows.js1680823522232692959 0
 53/home/jrealmo/mi-proyecto/node_modules/isexe/index.js1680823522232692959 0
-52/home/jrealmo/mi-proyecto/dist/index.f824f32e.js.map1682641648305743984 0
 54/home/jrealmo/mi-proyecto/node_modules/isexe/README.md1680823522232692959 0
 44/home/jrealmo/mi-proyecto/node_modules/isexe1680823522232692959 1
 97/home/jrealmo/mi-proyecto/node_modules/lightningcss-linux-x64-gnu/lightningcss.linux-x64-gnu.node1680823522332692961 0
@@ -1569,6 +1602,7 @@
 59/home/jrealmo/mi-proyecto/node_modules/svgo/lib/svgo/coa.js1680823522542692964 0
 77/home/jrealmo/mi-proyecto/node_modules/string.prototype.trimend/test/tests.js1680823522532692964 0
 76/home/jrealmo/mi-proyecto/node_modules/svgo/lib/svgo/css-select-adapter.d.ts1680823522542692964 0
+48/home/jrealmo/mi-proyecto/dist/index.0789d342.js1682711852265567187 0
 63/home/jrealmo/mi-proyecto/node_modules/svgo/lib/svgo/plugins.js1680823522542692964 0
 52/home/jrealmo/mi-proyecto/node_modules/svgo/lib/svgo1680823522542692964 1
 68/home/jrealmo/mi-proyecto/node_modules/postcss/lib/no-work-result.js1682640644505752417 0
@@ -1635,7 +1669,7 @@
 65/home/jrealmo/mi-proyecto/node_modules/string.prototype.trimstart1680823522532692964 1
 62/home/jrealmo/mi-proyecto/node_modules/call-bind/test/index.js1680823521982692955 0
 53/home/jrealmo/mi-proyecto/node_modules/call-bind/test1680823521982692955 1
-43/home/jrealmo/mi-proyecto/src/historia.html1682640803415778451 0
+43/home/jrealmo/mi-proyecto/src/historia.html1682711374785571564 0
 55/home/jrealmo/mi-proyecto/node_modules/call-bind/.nycrc1680823521982692955 0
 91/home/jrealmo/mi-proyecto/node_modules/react-refresh/cjs/react-refresh-babel.development.js1680823522482692963 0
 57/home/jrealmo/mi-proyecto/node_modules/call-bind/index.js1680823521982692955 0
@@ -1714,12 +1748,13 @@
 60/home/jrealmo/mi-proyecto/node_modules/utility-types/LICENSE1680823522562692965 0
 65/home/jrealmo/mi-proyecto/node_modules/utility-types/package.json1680823522572692965 0
 52/home/jrealmo/mi-proyecto/node_modules/utility-types1680823522572692965 1
-39/home/jrealmo/mi-proyecto/src/Nara.html1682640961105740167 0
+39/home/jrealmo/mi-proyecto/src/Nara.html1682711346395571125 0
 71/home/jrealmo/mi-proyecto/node_modules/entities/lib/decode_codepoint.js1680823522082692957 0
 68/home/jrealmo/mi-proyecto/node_modules/entities/lib/maps/legacy.json1680823522082692957 0
 78/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/shadowdom.js1680823522002692956 0
 70/home/jrealmo/mi-proyecto/node_modules/entities/lib/maps/entities.json1680823522082692957 0
 72/home/jrealmo/mi-proyecto/node_modules/entities/lib/encode-trie.d.ts.map1680823522082692957 0
+48/home/jrealmo/mi-proyecto/src/pages/fushimi.html1682711389955571763 0
 73/home/jrealmo/mi-proyecto/node_modules/entities/lib/decode_codepoint.d.ts1680823522082692957 0
 68/home/jrealmo/mi-proyecto/node_modules/entities/lib/encode-trie.d.ts1680823522082692957 0
 77/home/jrealmo/mi-proyecto/node_modules/entities/lib/decode_codepoint.d.ts.map1680823522082692957 0
@@ -1831,6 +1866,7 @@
 65/home/jrealmo/mi-proyecto/node_modules/shebang-regex/package.json1680823522512692964 0
 76/home/jrealmo/mi-proyecto/node_modules/function.prototype.name/test/tests.js1680823522172692958 0
 78/home/jrealmo/mi-proyecto/node_modules/function.prototype.name/test/shimmed.js1680823522172692958 0
+48/home/jrealmo/mi-proyecto/dist/pages/ukiyoe.html1682711852265567187 0
 58/home/jrealmo/mi-proyecto/node_modules/cssnano/LICENSE-MIT1682640644385752425 0
 85/home/jrealmo/mi-proyecto/node_modules/function.prototype.name/test/implementation.js1680823522172692958 0
 76/home/jrealmo/mi-proyecto/node_modules/function.prototype.name/test/index.js1680823522172692958 0
@@ -1883,6 +1919,7 @@
 67/home/jrealmo/mi-proyecto/node_modules/glob/dist/cjs/processor.d.ts1680823522182692958 0
 69/home/jrealmo/mi-proyecto/node_modules/glob/dist/mjs/has-magic.js.map1680823522182692958 0
 65/home/jrealmo/mi-proyecto/node_modules/glob/dist/mjs/pattern.d.ts1680823522182692958 0
+47/home/jrealmo/mi-proyecto/src/pages/naniwa.html1682711407905571908 0
 60/home/jrealmo/mi-proyecto/node_modules/glob/dist/mjs/glob.js1680823522182692958 0
 80/home/jrealmo/mi-proyecto/node_modules/normalize-package-data/lib/safe_format.js1680823522442692963 0
 65/home/jrealmo/mi-proyecto/node_modules/glob/dist/mjs/processor.js1680823522182692958 0
@@ -1978,6 +2015,7 @@
 86/home/jrealmo/mi-proyecto/node_modules/posthtml/node_modules/posthtml-parser/readme.md1680823522482692963 0
 99/home/jrealmo/mi-proyecto/node_modules/posthtml/node_modules/posthtml-parser/dist/chunk.2UQLUWPH.js1680823522482692963 0
 103/home/jrealmo/mi-proyecto/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.d.ts1680823522482692963 0
+52/home/jrealmo/mi-proyecto/dist/takoyaki.b2597a5e.jpg1682711844095566854 0
 90/home/jrealmo/mi-proyecto/node_modules/posthtml/node_modules/posthtml-parser/dist/index.js1680823522482692963 0
 81/home/jrealmo/mi-proyecto/node_modules/posthtml/node_modules/posthtml-parser/dist1680823522482692963 1
 73/home/jrealmo/mi-proyecto/node_modules/@parcel/core/test/fixtures/plugins1680823520292692928 1
@@ -2009,6 +2047,7 @@
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/CN.js1680823522012692956 0
 71/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/DateFromTime.js1680823522122692958 0
 72/home/jrealmo/mi-proyecto/node_modules/@parcel/core/lib/public/Bundle.js1680823520272692928 0
+51/home/jrealmo/mi-proyecto/src/img/categ/fushimi.jpg1682679078934841200 0
 56/home/jrealmo/mi-proyecto/node_modules/globalthis/.nycrc1680823522192692959 0
 72/home/jrealmo/mi-proyecto/node_modules/@parcel/core/lib/public/Target.js1680823520272692928 0
 75/home/jrealmo/mi-proyecto/node_modules/es-abstract/2022/BigInt/remainder.js1680823522142692958 0
@@ -2042,6 +2081,7 @@
 73/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/CommittedAsset.js1680823520272692928 0
 75/home/jrealmo/mi-proyecto/node_modules/rimraf/dist/cjs/src/rimraf-manual.js1680823522502692964 0
 65/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/worker.js1680823520282692928 0
+47/home/jrealmo/mi-proyecto/src/presentacion.html1682711353665571111 0
 71/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/public/Asset.js1680823520282692928 0
 80/home/jrealmo/mi-proyecto/node_modules/stylehacks/types/plugins/leadingStar.d.ts1682640644545752415 0
 60/home/jrealmo/mi-proyecto/node_modules/es-abstract/es2020.js1680823522162692958 0
@@ -2055,6 +2095,7 @@
 90/home/jrealmo/mi-proyecto/node_modules/postcss-selector-parser/dist/selectors/attribute.js1682641633685745270 0
 81/home/jrealmo/mi-proyecto/node_modules/postcss-selector-parser/dist/tokenTypes.js1682641633825745262 0
 80/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/requests/AssetRequest.js1680823520282692928 0
+55/home/jrealmo/mi-proyecto/dist/mapa_kansai.de95ff5c.jpg1682711844325566854 0
 79/home/jrealmo/mi-proyecto/node_modules/@babel/highlight/node_modules/color-name1682641633705745269 1
 96/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest4.c1680823522402692962 0
 58/home/jrealmo/mi-proyecto/node_modules/posthtml/lib/api.js1680823522482692963 0
@@ -2191,6 +2232,7 @@
 69/home/jrealmo/mi-proyecto/node_modules/glob/dist/cjs/pattern.d.ts.map1680823522182692958 0
 63/home/jrealmo/mi-proyecto/node_modules/@parcel/packager-css/lib1680823520492692931 1
 60/home/jrealmo/mi-proyecto/node_modules/css-what/package.json1680823522062692957 0
+52/home/jrealmo/mi-proyecto/dist/pages/festivales.html1682711852265567187 0
 73/home/jrealmo/mi-proyecto/node_modules/string.prototype.trim/package.json1680823522532692964 0
 77/home/jrealmo/mi-proyecto/node_modules/css-tree/lib/syntax/node/IdSelector.js1682641633915745257 0
 63/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/Type.js1680823522132692958 0
@@ -2401,6 +2443,7 @@
 79/home/jrealmo/mi-proyecto/node_modules/stylehacks/src/dictionary/identifiers.js1682640644425752423 0
 71/home/jrealmo/mi-proyecto/node_modules/@parcel/transformer-html/LICENSE1680823520582692933 0
 75/home/jrealmo/mi-proyecto/node_modules/postcss-discard-duplicates/README.md1682641633685745270 0
+49/home/jrealmo/mi-proyecto/dist/heijo.74a5668a.jpg1682711844315566854 0
 83/home/jrealmo/mi-proyecto/node_modules/@parcel/transformer-html/src/dependencies.js1680823520582692933 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/GG.js1680823522012692956 0
 92/home/jrealmo/mi-proyecto/node_modules/@parcel/runtime-js/lib/helpers/browser/wasm-loader.js1680823520532692932 0
@@ -2694,7 +2737,7 @@
 65/home/jrealmo/mi-proyecto/node_modules/glob/dist/mjs/has-magic.js1680823522182692958 0
 71/home/jrealmo/mi-proyecto/node_modules/@parcel/graph/test/Graph.test.js1680823520422692930 0
 64/home/jrealmo/mi-proyecto/node_modules/lilconfig/dist/index.d.ts1682640644465752420 0
-47/home/jrealmo/mi-proyecto/dist/gastronomia.html1682641648295743985 0
+47/home/jrealmo/mi-proyecto/dist/gastronomia.html1682711852265567187 0
 73/home/jrealmo/mi-proyecto/node_modules/postcss-normalize-repeat-style/src1682641633645745273 1
 82/home/jrealmo/mi-proyecto/node_modules/@parcel/runtime-service-worker/package.json1680823520532692932 0
 65/home/jrealmo/mi-proyecto/node_modules/htmlparser2/lib/index.d.ts1682641633785745264 0
@@ -2936,7 +2979,6 @@
 75/home/jrealmo/mi-proyecto/node_modules/es-abstract/2017/NormalCompletion.js1680823522102692957 0
 90/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.c1680823522412692962 0
 68/home/jrealmo/mi-proyecto/node_modules/es-abstract/2018/ToInteger.js1680823522112692957 0
-36/home/jrealmo/mi-proyecto/src/app.js1682612197337066206 0
 84/home/jrealmo/mi-proyecto/node_modules/resolve/test/module_dir/ymodules/aaa/index.js1682641633875745259 0
 57/home/jrealmo/mi-proyecto/node_modules/chrome-trace-event1680823522032692956 1
 116/home/jrealmo/mi-proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module/module.js1680823520442692931 0
@@ -3002,7 +3044,7 @@
 112/home/jrealmo/mi-proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked1680823520452692931 1
 67/home/jrealmo/mi-proyecto/node_modules/resolve/test/resolver/foo.js1682641633845745261 0
 73/home/jrealmo/mi-proyecto/node_modules/es-abstract/2022/IsLooselyEqual.js1680823522152692958 0
-29/home/jrealmo/mi-proyecto/src1682641005495738590 1
+29/home/jrealmo/mi-proyecto/src1682705660485577720 1
 65/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/Invoke.js1680823522092692957 0
 92/home/jrealmo/mi-proyecto/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js1682641633855745260 0
 94/home/jrealmo/mi-proyecto/node_modules/@parcel/transformer-posthtml/src/PostHTMLTransformer.js1680823521892692954 0
@@ -3158,6 +3200,7 @@
 54/home/jrealmo/mi-proyecto/node_modules/resolve/.github1682641633975745253 1
 72/home/jrealmo/mi-proyecto/node_modules/json-parse-better-errors/index.js1682641633655745272 0
 60/home/jrealmo/mi-proyecto/node_modules/get-port/package.json1682641633635745274 0
+48/home/jrealmo/mi-proyecto/dist/pages/naniwa.html1682711852265567187 0
 91/home/jrealmo/mi-proyecto/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js1680823521922692954 0
 66/home/jrealmo/mi-proyecto/node_modules/@parcel/transformer-svg/src1680823521892692954 1
 79/home/jrealmo/mi-proyecto/node_modules/es-abstract/2019/StringGetOwnProperty.js1680823522122692958 0
@@ -3355,7 +3398,7 @@
 69/home/jrealmo/mi-proyecto/node_modules/es-abstract/2022/RegExpExec.js1680823522152692958 0
 85/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/meta-theme-color.js1680823521992692955 0
 88/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/module.h1680823522412692962 0
-48/home/jrealmo/mi-proyecto/dist/nara.e1e25974.jpg1682641648165743991 0
+48/home/jrealmo/mi-proyecto/dist/nara.e1e25974.jpg1682711844325566854 0
 82/home/jrealmo/mi-proyecto/node_modules/es-abstract/2017/EnumerableOwnProperties.js1680823522102692957 0
 93/home/jrealmo/mi-proyecto/node_modules/@parcel/core/test/fixtures/custom-targets/package.json1680823520282692928 0
 72/home/jrealmo/mi-proyecto/node_modules/@jridgewell/trace-mapping/LICENSE1680823520172692926 0
@@ -3409,6 +3452,7 @@
 80/home/jrealmo/mi-proyecto/node_modules/@parcel/namer-default/src/DefaultNamer.js1680823520442692931 0
 67/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/IsRegExp.js1680823522122692958 0
 87/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/lib/_possible_constructor_return.js1682641633855745260 0
+54/home/jrealmo/mi-proyecto/src/img/categ/takarazuka.jpg1682677200747581100 0
 88/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/requestidlecallback.js1680823522002692956 0
 65/home/jrealmo/mi-proyecto/node_modules/es-abstract/2019/Invoke.js1680823522112692957 0
 52/home/jrealmo/mi-proyecto/node_modules/glob/dist/cjs1680823522182692958 1
@@ -3438,7 +3482,7 @@
 84/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/lib/_async_generator_delegate.js1682641633725745268 0
 52/home/jrealmo/mi-proyecto/node_modules/svgo/bin/svgo1680823522532692964 0
 78/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/src/_wrap_native_super.mjs1682641633975745253 0
-42/home/jrealmo/mi-proyecto/src/templos.html1682640899395743582 0
+42/home/jrealmo/mi-proyecto/src/templos.html1682711357935571125 0
 76/home/jrealmo/mi-proyecto/node_modules/postcss-merge-longhand/types/lib/decl1682640644565752413 1
 83/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/lib/_interop_require_default.js1682641633845745261 0
 64/home/jrealmo/mi-proyecto/node_modules/msgpackr/rollup.config.js1682641633815745263 0
@@ -3531,6 +3575,7 @@
 59/home/jrealmo/mi-proyecto/node_modules/get-intrinsic/.nycrc1680823522172692958 0
 55/home/jrealmo/mi-proyecto/node_modules/colord/index.mjs1682640644535752415 0
 70/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/projectPath.js1680823520282692928 0
+52/home/jrealmo/mi-proyecto/dist/pages/takarazuka.html1682711852265567187 0
 71/home/jrealmo/mi-proyecto/node_modules/resolve/lib/normalize-options.js1682641633935745255 0
 82/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/readonly-attr.js1680823521992692955 0
 63/home/jrealmo/mi-proyecto/node_modules/domelementtype/readme.md1680823522072692957 0
@@ -3632,6 +3677,7 @@
 121/home/jrealmo/mi-proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-fallback/package.json1680823520442692931 0
 35/home/jrealmo/mi-proyecto/.cache/a11682640639225752769 1
 117/home/jrealmo/mi-proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/a1680823520442692931 1
+51/home/jrealmo/mi-proyecto/src/img/categ/matsuri.jpg1682677846654152600 0
 76/home/jrealmo/mi-proyecto/node_modules/es-abstract/2022/SetIntegrityLevel.js1680823522152692958 0
 77/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/CodePointsToString.js1680823522132692958 0
 94/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/src/_class_check_private_static_access.mjs1682641633895745258 0
@@ -3736,6 +3782,7 @@
 77/home/jrealmo/mi-proyecto/node_modules/cross-spawn/lib/util/resolveCommand.js1682641633745745267 0
 88/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/src/_initializer_define_property.mjs1682641633925745256 0
 66/home/jrealmo/mi-proyecto/node_modules/resolve/test/precedence/bbb1682641633915745257 1
+51/home/jrealmo/mi-proyecto/src/pages/takarazuka.html1682711425415572444 0
 70/home/jrealmo/mi-proyecto/node_modules/es-abstract/2015/HasProperty.js1680823522092692957 0
 35/home/jrealmo/mi-proyecto/.cache/181682640639205752771 1
 98/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lz4/lib/dll/example/fullbench-dll.vcxproj1680823522412692962 0
@@ -3810,7 +3857,7 @@
 69/home/jrealmo/mi-proyecto/node_modules/is-negative-zero/test/index.js1682641633715745269 0
 35/home/jrealmo/mi-proyecto/.cache/571682640639215752770 1
 55/home/jrealmo/mi-proyecto/node_modules/resolve/index.js1682641633855745260 0
-40/home/jrealmo/mi-proyecto/dist/arte.html1682641648295743985 0
+40/home/jrealmo/mi-proyecto/dist/arte.html1682711852265567187 0
 57/home/jrealmo/mi-proyecto/node_modules/parse-json/license1682641633625745274 0
 69/home/jrealmo/mi-proyecto/node_modules/rimraf/dist/cjs/src/opt-arg.js1680823522502692964 0
 78/home/jrealmo/mi-proyecto/node_modules/@parcel/utils/test/PromiseQueue.test.js1680823521922692954 0
@@ -3926,6 +3973,7 @@
 59/home/jrealmo/mi-proyecto/node_modules/is-array-buffer/test1680823522212692959 1
 67/home/jrealmo/mi-proyecto/node_modules/css-tree/lib/syntax/function1682641633985745252 1
 73/home/jrealmo/mi-proyecto/node_modules/es-abstract/2018/HasOwnProperty.js1680823522102692957 0
+48/home/jrealmo/mi-proyecto/src/pages/todaiji.html1682711439515572345 0
 81/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/OrdinarySetPrototypeOf.js1680823522122692958 0
 80/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/css-filters.js1680823521982692955 0
 67/home/jrealmo/mi-proyecto/node_modules/is-date-object/.eslintignore1680823522212692959 0
@@ -4195,6 +4243,7 @@
 86/home/jrealmo/mi-proyecto/node_modules/@parcel/reporter-dev-server/src/serverErrors.js1680823520522692932 0
 139/home/jrealmo/mi-proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/package.json1680823520452692931 0
 66/home/jrealmo/mi-proyecto/node_modules/is-date-object/CHANGELOG.md1680823522212692959 0
+54/home/jrealmo/mi-proyecto/dist/takarazuka.d028c40c.jpg1682711844095566854 0
 58/home/jrealmo/mi-proyecto/node_modules/is-string/README.md1680823522222692959 0
 60/home/jrealmo/mi-proyecto/node_modules/boolbase/package.json1682641633635745274 0
 87/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/requests/WriteBundlesRequest.js1680823520282692928 0
@@ -4205,6 +4254,7 @@
 66/home/jrealmo/mi-proyecto/node_modules/es-abstract/2018/ToUint8.js1680823522112692957 0
 76/home/jrealmo/mi-proyecto/node_modules/es-abstract/5/IsAccessorDescriptor.js1680823522152692958 0
 64/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/src/_get.mjs1682641633925745256 0
+53/home/jrealmo/mi-proyecto/dist/index.1b75733e.css.map1682711852265567187 0
 58/home/jrealmo/mi-proyecto/node_modules/call-bind/.eslintrc1680823521982692955 0
 75/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/BigInt/leftShift.js1680823522132692958 0
 71/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/lib/_await_value.js1682641633755745266 0
@@ -4225,7 +4275,7 @@
 57/home/jrealmo/mi-proyecto/node_modules/is-weakref/LICENSE1680823522232692959 0
 88/home/jrealmo/mi-proyecto/node_modules/postcss-selector-parser/dist/selectors/comment.js1682641633715745269 0
 62/home/jrealmo/mi-proyecto/node_modules/terser/bin/package.json1682641633935745255 0
-43/home/jrealmo/mi-proyecto/dist/templos.html1682641648295743985 0
+43/home/jrealmo/mi-proyecto/dist/templos.html1682711852265567187 0
 75/home/jrealmo/mi-proyecto/node_modules/es-abstract/2015/thisBooleanValue.js1680823522092692957 0
 59/home/jrealmo/mi-proyecto/node_modules/is-arrayish/index.js1680823522212692959 0
 108/home/jrealmo/mi-proyecto/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/dist.js1680823520452692931 0
@@ -4483,6 +4533,7 @@
 81/home/jrealmo/mi-proyecto/node_modules/@babel/helper-validator-identifier/LICENSE1682641633635745274 0
 58/home/jrealmo/mi-proyecto/node_modules/@lezer/lr/README.md1682641633755745266 0
 84/home/jrealmo/mi-proyecto/node_modules/@swc/helpers/src/_class_private_field_set.mjs1682641633905745257 0
+51/home/jrealmo/mi-proyecto/src/pages/shitennoji.html1682711421715572364 0
 87/home/jrealmo/mi-proyecto/node_modules/@jridgewell/gen-mapping/src/sourcemap-segment.ts1680823520162692926 0
 66/home/jrealmo/mi-proyecto/node_modules/is-core-module/package.json1682641633735745267 0
 78/home/jrealmo/mi-proyecto/node_modules/postcss-reduce-initial/types/index.d.ts1682641633725745268 0
@@ -4750,6 +4801,7 @@
 76/home/jrealmo/mi-proyecto/node_modules/csso/lib/restructure/prepare/index.js1682641633865745260 0
 73/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/PackagerRunner.js1680823520272692928 0
 59/home/jrealmo/mi-proyecto/node_modules/json5/dist/index.mjs1682641633805745263 0
+52/home/jrealmo/mi-proyecto/dist/pages/shitennoji.html1682711852265567187 0
 48/home/jrealmo/mi-proyecto/node_modules/lmdb/dist1680823522412692962 1
 78/home/jrealmo/mi-proyecto/node_modules/terser/lib/compress/compressor-flags.js1682641633865745260 0
 77/home/jrealmo/mi-proyecto/node_modules/@parcel/packager-js/lib/dev-prelude.js1680823520502692932 0
@@ -4829,7 +4881,6 @@
 67/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/BinaryOr.js1680823522132692958 0
 88/home/jrealmo/mi-proyecto/node_modules/resolve/test/module_dir/zmodules/bbb/package.json1682641633965745254 0
 80/home/jrealmo/mi-proyecto/node_modules/@babel/highlight/node_modules/ansi-styles1682641633675745271 1
-41/home/jrealmo/mi-proyecto/src/musica.html1682640866755756552 0
 81/home/jrealmo/mi-proyecto/node_modules/svgo/plugins/removeUselessStrokeAndFill.js1680823522542692964 0
 80/home/jrealmo/mi-proyecto/node_modules/@parcel/core/test/fixtures/custom-targets1680823520282692928 1
 114/home/jrealmo/mi-proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module/main.js1680823520442692931 0
@@ -5439,7 +5490,6 @@
 65/home/jrealmo/mi-proyecto/node_modules/has-tostringtag/test/shams1682641633685745270 1
 66/home/jrealmo/mi-proyecto/node_modules/@parcel/utils/src/config.js1680823521922692954 0
 76/home/jrealmo/mi-proyecto/node_modules/has-tostringtag/test/shams/core-js.js1682641633685745270 0
-50/home/jrealmo/mi-proyecto/dist/musica.cfaf7686.jpg1682641648165743991 0
 69/home/jrealmo/mi-proyecto/node_modules/@parcel/core/src/Dependency.js1680823520272692928 0
 67/home/jrealmo/mi-proyecto/node_modules/has-tostringtag/CHANGELOG.md1682641633755745266 0
 50/home/jrealmo/mi-proyecto/node_modules/has-symbols1682641633765745266 1
@@ -5699,6 +5749,7 @@
 78/home/jrealmo/mi-proyecto/node_modules/es-abstract/2022/Number/exponentiate.js1680823522152692958 0
 74/home/jrealmo/mi-proyecto/node_modules/regexp.prototype.flags/package.json1680823522482692963 0
 113/home/jrealmo/mi-proyecto/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.darwin-arm64.node1680823520542692932 0
+51/home/jrealmo/mi-proyecto/src/pages/kushikatsu.html1682711404835571855 0
 84/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/dist/unpacker/browserVersions.js1680823522032692956 0
 115/home/jrealmo/mi-proyecto/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.win32-x64-msvc.node1680823520572692933 0
 66/home/jrealmo/mi-proyecto/node_modules/rimraf/dist/mjs/path-arg.js1680823522512692964 0
@@ -5769,6 +5820,7 @@
 86/home/jrealmo/mi-proyecto/node_modules/es-abstract/2019/GetPrototypeFromConstructor.js1680823522112692957 0
 68/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features.js1680823521982692955 0
 63/home/jrealmo/mi-proyecto/node_modules/colord/plugins/cmyk.d.ts1682640644555752414 0
+50/home/jrealmo/mi-proyecto/dist/kabuki.5bc80d33.jpg1682711844325566854 0
 88/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/IsUnclampedIntegerElementType.js1680823522132692958 0
 76/home/jrealmo/mi-proyecto/node_modules/@parcel/runtime-react-refresh/LICENSE1680823520532692932 0
 63/home/jrealmo/mi-proyecto/node_modules/caniuse-api/CHANGELOG.md1682640644295752431 0
@@ -5926,6 +5978,7 @@
 68/home/jrealmo/mi-proyecto/node_modules/es-abstract/2018/SameValue.js1680823522112692957 0
 83/home/jrealmo/mi-proyecto/node_modules/string.prototype.trim/test/implementation.js1680823522532692964 0
 60/home/jrealmo/mi-proyecto/node_modules/object.assign/shim.js1680823522462692963 0
+51/home/jrealmo/mi-proyecto/dist/matsuri.6554b0fc.jpg1682711844325566854 0
 72/home/jrealmo/mi-proyecto/node_modules/functions-have-names/package.json1680823522172692958 0
 67/home/jrealmo/mi-proyecto/node_modules/functions-have-names/LICENSE1680823522172692958 0
 59/home/jrealmo/mi-proyecto/node_modules/graceful-fs/clone.js1680823522192692959 0
@@ -5935,6 +5988,7 @@
 85/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/multibackgrounds.js1680823521992692955 0
 69/home/jrealmo/mi-proyecto/node_modules/functions-have-names/.eslintrc1680823522172692958 0
 64/home/jrealmo/mi-proyecto/node_modules/node-addon-api/napi-inl.h1680823522442692963 0
+52/home/jrealmo/mi-proyecto/dist/pages/kushikatsu.html1682711852265567187 0
 75/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/IteratorComplete.js1680823522102692957 0
 59/home/jrealmo/mi-proyecto/node_modules/unbox-primitive/test1680823522562692965 1
 64/home/jrealmo/mi-proyecto/node_modules/@lezer/lr/dist/stack.d.ts1682641633775745265 0
@@ -5959,6 +6013,7 @@
 63/home/jrealmo/mi-proyecto/node_modules/css-what/lib/es/parse.js1680823522062692957 0
 69/home/jrealmo/mi-proyecto/node_modules/npm-run-all/lib/spawn-posix.js1680823522452692963 0
 67/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/MakeTime.js1680823522102692957 0
+40/home/jrealmo/mi-proyecto/dist/Nara.html1682711852265567187 0
 73/home/jrealmo/mi-proyecto/node_modules/css-what/lib/es/stringify.d.ts.map1680823522062692957 0
 69/home/jrealmo/mi-proyecto/node_modules/css-what/lib/es/index.d.ts.map1680823522062692957 0
 49/home/jrealmo/mi-proyecto/node_modules/is-extglob1680823522222692959 1
@@ -6397,6 +6452,7 @@
 87/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/speech-recognition.js1680823522002692956 0
 67/home/jrealmo/mi-proyecto/node_modules/npm-run-all/lib/run-tasks.js1680823522452692963 0
 54/home/jrealmo/mi-proyecto/node_modules/npm-run-all/bin1680823522442692963 1
+46/home/jrealmo/mi-proyecto/src/pages/heian.html1682711393045571764 0
 55/home/jrealmo/mi-proyecto/node_modules/cosmiconfig/dist1680823522042692956 1
 77/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/EnumerableOwnNames.js1680823522092692957 0
 92/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_enc2.c1680823522412692962 0
@@ -6418,7 +6474,6 @@
 74/home/jrealmo/mi-proyecto/node_modules/npm-run-all/bin/common/bootstrap.js1680823522442692963 0
 61/home/jrealmo/mi-proyecto/node_modules/js-tokens/package.json1680823522232692959 0
 56/home/jrealmo/mi-proyecto/node_modules/js-tokens/LICENSE1680823522232692959 0
-48/home/jrealmo/mi-proyecto/dist/index.f824f32e.js1682641648295743985 0
 58/home/jrealmo/mi-proyecto/node_modules/graceful-fs/LICENSE1680823522192692959 0
 62/home/jrealmo/mi-proyecto/node_modules/shell-quote/test/env.js1680823522522692964 0
 58/home/jrealmo/mi-proyecto/node_modules/js-tokens/README.md1680823522232692959 0
@@ -6446,7 +6501,7 @@
 66/home/jrealmo/mi-proyecto/node_modules/@parcel/utils/src/stream.js1680823521922692954 0
 60/home/jrealmo/mi-proyecto/node_modules/node-addon-api/napi.h1680823522442692963 0
 59/home/jrealmo/mi-proyecto/node_modules/node-addon-api/tools1680823522442692963 1
-44/home/jrealmo/mi-proyecto/dist/historia.html1682641648295743985 0
+44/home/jrealmo/mi-proyecto/dist/historia.html1682711852265567187 0
 69/home/jrealmo/mi-proyecto/node_modules/node-addon-api/tools/README.md1680823522442692963 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/GL.js1680823522012692956 0
 73/home/jrealmo/mi-proyecto/node_modules/node-addon-api/tools/conversion.js1680823522442692963 0
@@ -6579,6 +6634,7 @@
 60/home/jrealmo/mi-proyecto/node_modules/cssnano-utils/LICENSE1682640644365752427 0
 67/home/jrealmo/mi-proyecto/node_modules/es-abstract/2022/TimeClip.js1680823522152692958 0
 79/home/jrealmo/mi-proyecto/node_modules/es-abstract/2022/ValidateAtomicAccess.js1680823522152692958 0
+41/home/jrealmo/mi-proyecto/dist/Kyoto.html1682711852265567187 0
 35/home/jrealmo/mi-proyecto/.cache/7f1682640639215752770 1
 81/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/AddEntriesFromIterable.js1680823522132692958 0
 75/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/BigInt/bitwiseOR.js1680823522122692958 0
@@ -6892,7 +6948,7 @@
 84/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/OrdinaryDefineOwnProperty.js1680823522142692958 0
 78/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/OrdinaryToPrimitive.js1680823522142692958 0
 96/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/Doxyfile1680823522402692962 0
-49/home/jrealmo/mi-proyecto/dist/osaka.37f05738.jpg1682641647345744034 0
+49/home/jrealmo/mi-proyecto/dist/osaka.37f05738.jpg1682711844095566854 0
 72/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/dist/lib/statuses.js1680823522032692956 0
 46/home/jrealmo/mi-proyecto/node_modules/pidtree1682641633765745266 1
 79/home/jrealmo/mi-proyecto/node_modules/source-map-support/source-map-support.js1680823522522692964 0
@@ -7194,7 +7250,7 @@
 80/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/canvas-text.js1680823521982692955 0
 62/home/jrealmo/mi-proyecto/node_modules/object-keys/.travis.yml1682641633675745271 0
 67/home/jrealmo/mi-proyecto/node_modules/es-abstract/2018/ToLength.js1680823522112692957 0
-39/home/jrealmo/mi-proyecto/src/arte.html1682640846205758085 0
+39/home/jrealmo/mi-proyecto/src/arte.html1682711361475571170 0
 66/home/jrealmo/mi-proyecto/node_modules/svgo/plugins/_transforms.js1680823522542692964 0
 57/home/jrealmo/mi-proyecto/node_modules/@parcel/runtime-js1680823520532692932 1
 59/home/jrealmo/mi-proyecto/node_modules/fs.realpath/index.js1682641633675745271 0
@@ -7346,6 +7402,7 @@
 63/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/GetV.js1680823522092692957 0
 68/home/jrealmo/mi-proyecto/node_modules/css-tree/lib/lexer/generic.js1682641633905745257 0
 72/home/jrealmo/mi-proyecto/node_modules/es-abstract/2019/MonthFromTime.js1680823522112692957 0
+51/home/jrealmo/mi-proyecto/dist/ukiyo-e.1e2ecdc5.jpg1682711844325566854 0
 76/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/DetachArrayBuffer.js1680823522092692957 0
 72/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/DayWithinYear.js1680823522092692957 0
 63/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/Type.js1680823522102692957 0
@@ -7751,6 +7808,7 @@
 81/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/AddEntriesFromIterable.js1680823522122692958 0
 80/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/DeletePropertyOrThrow.js1680823522122692958 0
 86/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/CanonicalNumericIndexString.js1680823522122692958 0
+49/home/jrealmo/mi-proyecto/dist/pages/fushimi.html1682711852265567187 0
 65/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/Invoke.js1680823522122692958 0
 73/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/IterableToList.js1680823522122692958 0
 74/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/GetGlobalObject.js1680823522122692958 0
@@ -7816,7 +7874,7 @@
 83/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/viewport-units.js1680823522002692956 0
 70/home/jrealmo/mi-proyecto/node_modules/@parcel/codeframe/test/fixtures1680823520272692928 1
 80/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/IsNoTearConfiguration.js1680823522122692958 0
-41/home/jrealmo/mi-proyecto/dist/index.html1682641648295743985 0
+41/home/jrealmo/mi-proyecto/dist/index.html1682711852265567187 0
 72/home/jrealmo/mi-proyecto/node_modules/es-abstract/2020/TimeWithinDay.js1680823522122692958 0
 83/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/xml-serializer.js1680823522002692956 0
 60/home/jrealmo/mi-proyecto/node_modules/es-abstract/es2019.js1680823522152692958 0
@@ -7933,6 +7991,7 @@
 81/home/jrealmo/mi-proyecto/node_modules/htmlnano/docs/versioned_docs/version-2.0.01680823522202692959 1
 55/home/jrealmo/mi-proyecto/node_modules/semver/README.md1682641633745745267 0
 67/home/jrealmo/mi-proyecto/node_modules/es-abstract/2017/ToUint32.js1680823522102692957 0
+52/home/jrealmo/mi-proyecto/src/pages/okonomiyaki.html1682711411985572059 0
 85/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/features/css-color-adjust.js1680823521982692955 0
 72/home/jrealmo/mi-proyecto/node_modules/resolve/test/resolver/baz/doom.js1682641633835745261 0
 59/home/jrealmo/mi-proyecto/node_modules/stable/stable.min.js1680823522532692964 0
@@ -7945,7 +8004,7 @@
 43/home/jrealmo/mi-proyecto/node_modules/lmdb1680823522422692962 1
 77/home/jrealmo/mi-proyecto/node_modules/es-abstract/2021/GetOwnPropertyKeys.js1680823522132692958 0
 84/home/jrealmo/mi-proyecto/node_modules/lmdb/node_modules/node-addon-api/node_api.gyp1680823522422692962 0
-30/home/jrealmo/mi-proyecto/dist1682641648305743984 1
+30/home/jrealmo/mi-proyecto/dist1682711852275567188 1
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/SV.js1680823522022692956 0
 76/home/jrealmo/mi-proyecto/node_modules/postcss-value-parser/lib/stringify.js1680823522472692963 0
 84/home/jrealmo/mi-proyecto/node_modules/lmdb/node_modules/node-addon-api/package.json1680823522422692962 0
@@ -7997,6 +8056,7 @@
 71/home/jrealmo/mi-proyecto/node_modules/rimraf/dist/mjs/rimraf-native.js1680823522512692964 0
 79/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lz4/lib/dll/liblz4.def1680823522412692962 0
 35/home/jrealmo/mi-proyecto/.cache/261682640639205752771 1
+39/home/jrealmo/mi-proyecto/src/img/categ1682680358315563354 1
 90/home/jrealmo/mi-proyecto/node_modules/npm-run-all/node_modules/color-convert/package.json1680823522452692963 0
 70/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lz4/lib/lz4.h1680823522412692962 0
 75/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lz4/lib/lz4frame.c1680823522412692962 0
@@ -8019,6 +8079,7 @@
 57/home/jrealmo/mi-proyecto/node_modules/css-what/readme.md1680823522062692957 0
 66/home/jrealmo/mi-proyecto/node_modules/nanoid/non-secure/index.cjs1682640644375752426 0
 88/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/Doxyfile1680823522412692962 0
+50/home/jrealmo/mi-proyecto/src/img/categ/naniwa.jpg1682680331104751800 0
 99/home/jrealmo/mi-proyecto/node_modules/htmlnano/docs/versioned_sidebars/version-1.1.1-sidebars.json1680823522202692959 0
 88/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest6.c1680823522412692962 0
 66/home/jrealmo/mi-proyecto/node_modules/@jridgewell/sourcemap-codec1680823520172692926 1
@@ -8040,6 +8101,7 @@
 67/home/jrealmo/mi-proyecto/node_modules/source-map-support/README.md1680823522522692964 0
 78/home/jrealmo/mi-proyecto/node_modules/stylehacks/types/plugins/bodyEmpty.d.ts1682640644515752417 0
 59/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/v81680823522412692962 1
+47/home/jrealmo/mi-proyecto/src/pages/kabuki.html1682711400785571786 0
 61/home/jrealmo/mi-proyecto/node_modules/svgo/lib/svgo/tools.js1680823522542692964 0
 70/home/jrealmo/mi-proyecto/node_modules/css-tree/lib/tokenizer/const.js1682641633825745262 0
 79/home/jrealmo/mi-proyecto/node_modules/lmdb/dependencies/v8/v8-fast-api-calls.h1680823522412692962 0
@@ -8188,7 +8250,7 @@
 64/home/jrealmo/mi-proyecto/node_modules/source-map-js/lib/util.js1682640644515752417 0
 89/home/jrealmo/mi-proyecto/node_modules/@jridgewell/sourcemap-codec/src/sourcemap-codec.ts1680823520172692926 0
 75/home/jrealmo/mi-proyecto/node_modules/@jridgewell/gen-mapping/src/types.ts1680823520162692926 0
-40/home/jrealmo/mi-proyecto/src/Osaka.html1682640950235736799 0
+40/home/jrealmo/mi-proyecto/src/Osaka.html1682711350075571114 0
 70/home/jrealmo/mi-proyecto/node_modules/@jridgewell/gen-mapping/LICENSE1680823520162692926 0
 69/home/jrealmo/mi-proyecto/node_modules/regexp.prototype.flags/shim.js1680823522482692963 0
 72/home/jrealmo/mi-proyecto/node_modules/@jridgewell/gen-mapping/README.md1680823520162692926 0
@@ -8231,6 +8293,7 @@
 68/home/jrealmo/mi-proyecto/node_modules/string.prototype.trim/LICENSE1680823522532692964 0
 71/home/jrealmo/mi-proyecto/node_modules/@parcel/packager-js/package.json1680823520502692932 0
 67/home/jrealmo/mi-proyecto/node_modules/string.prototype.trim/.nycrc1680823522532692964 0
+48/home/jrealmo/mi-proyecto/dist/presentacion.html1682711852265567187 0
 86/home/jrealmo/mi-proyecto/node_modules/@parcel/fs-search/fs-search.linux-x64-musl.node1680823520402692930 0
 78/home/jrealmo/mi-proyecto/node_modules/string.prototype.trim/implementation.js1680823522532692964 0
 70/home/jrealmo/mi-proyecto/node_modules/caniuse-lite/data/regions/CF.js1680823522012692956 0
@@ -8253,7 +8316,7 @@
 84/home/jrealmo/mi-proyecto/node_modules/@jridgewell/gen-mapping/dist/types/types.d.ts1680823520162692926 0
 53/home/jrealmo/mi-proyecto/node_modules/colord/plugins1682640644565752413 1
 64/home/jrealmo/mi-proyecto/node_modules/yaml/browser/dist/util.js1680823522582692965 0
-25/home/jrealmo/mi-proyecto1682641647295744040 1
+25/home/jrealmo/mi-proyecto1682711844055566854 1
 66/home/jrealmo/mi-proyecto/node_modules/es-abstract/2016/ToInt16.js1680823522102692957 0
 62/home/jrealmo/mi-proyecto/node_modules/colord/plugins/a11y.mjs1682640644525752416 0
 85/home/jrealmo/mi-proyecto/node_modules/postcss-ordered-values/types/rules/border.d.ts1682640644515752417 0

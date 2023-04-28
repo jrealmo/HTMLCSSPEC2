@@ -3,16 +3,17 @@
 body {
 --color-primary: #88c9f5;
 --color-secondary: #2980b9;
-font-family: Arial, sans-serif;
-margin: 0;
+margin: 0 auto;
 padding: 0;
+font-family: Arial, sans-serif;
 background-color: #fff;
 }
 
 .highlight {
     background-color: var(--color-primary);
-    padding-top: 1rem;
-  }
+    padding-top: 0.5rem;
+    text-align: center;
+}
   
   .highlight h1 {
     margin-bottom: 1.5rem;
@@ -22,12 +23,32 @@ background-color: #fff;
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
+  
+  .highlight .button a {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: var(--color-secondary);
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 2px solid var(--color-secondary);
+    transition: all 0.3s ease;
+  }
+  
+  .highlight .button a:hover {
+    background-color: #333;
+    color: #fff;
+    border-color: #fff;
+  }
 
-/* Encabezado */
 h1 {
     background-color: var(--color-primary);
     color: white;
-    font-size: 3rem;
+    font-size: 5vw;
     font-weight: bold;
     padding: 20px;
     text-align: center;
@@ -36,7 +57,78 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Banner */
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+  width: 100%;
+}
+
+nav li {
+  list-style: none;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+nav a {
+  display: block;
+  color: #fff;
+  font-size: 1.5rem;
+  text-decoration: none;
+  padding: 10px;
+  background-color: var(--color-secondary);
+  min-width: 150px;
+  box-sizing: border-box;
+  text-align: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: none;
+  outline: none;
+}
+
+nav a:hover {
+  background-color: #1e6187;
+}
+
+@media only screen and (max-width: 768px) {
+  nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  nav li {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  nav a {
+    font-size: 3vw;
+    padding: 5px;
+    min-width: 100px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  nav li {
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  
+  nav a {
+    font-size: 4vw;
+    padding: 6px;
+    min-width: 50px;
+  }
+}
+
 .banner {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -60,7 +152,6 @@ h1 {
   .banner a:hover {
     transform: scale(1.1);
     color: #fff;
-    font-size: 1.5rem;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   }
   
@@ -82,7 +173,7 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 1.25rem;
+    font-size: 3vw;
     color: #fff;
     z-index: 2;
   }
@@ -98,72 +189,49 @@ h1 {
   
   #grid {
     width: 100%;
-    margin: 70px 0px 70px 0px;
-  } 
-
+    text-align: center;
+  }
+  
   #grid td {
     width: 30%;
     height: 0px;
     padding-bottom: 30%;
     position: relative;
+    display: inline-block;
     text-align: center;
     background-color: white;
     border-radius: 20px;
     vertical-align: middle;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    opacity: 0.8;
   }
 
   #grid td.gastronomia {
     background-image: url('img/index/gastronomia.jpg');
-    background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-    opacity: 0.8;
-  }
-  
-  #grid td.musica {
-    background-image: url('img/index/musica.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-    opacity: 0.8;
   }
   
   #grid td.arte {
     background-image: url('img/index/arte.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-    opacity: 0.8;
+    background-position: top;
   }
   
   #grid td.cultura {
     background-image: url('img/index/cultura.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-    opacity: 0.8;
+    background-position: top;
+
   }
   
   #grid td.templos {
     background-image: url('img/index/templos.jpg');
-    background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-    opacity: 0.8;
   }
   
   #grid td.historia {
     background-image: url('img/index/historia.jpg');
-    background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply;
-    opacity: 0.8;
   }
   
   #grid td a {
@@ -176,7 +244,7 @@ h1 {
     color: #ffffff;
     text-decoration: none;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    opacity: 0.7;
+    opacity: 0.9;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -206,10 +274,368 @@ h1 {
     .banner {
         grid-template-columns: repeat(1, 1fr);
       }
+    .banner a:hover span {
+      font-size: 10vw;
+    }
   }
 
 @media (max-width: 480px) {
     #grid td {
       width: 100%;
     }
+}
+
+
+/* Estilos para la página de presentación */
+
+#box {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  flex-wrap: wrap;
+}
+
+#box img {
+  max-width: 100%;
+  height: auto;
+}
+
+#box iframe {
+  width: 640px;
+  height: 360px;
+}
+
+@media only screen and (max-width: 767px) {
+  #box iframe {
+    max-width: 70%;
+    height: auto;
   }
+}
+
+
+/* Estilos para páginas de ciudades */
+  .city-banner {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+  }
+
+  .banner-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .banner-overlay h1 {
+    color: #ffffff;
+    font-size: 10vw;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+
+.kyoto-banner {
+  background-image: url('img/index/kyoto.jpg');
+}
+.osaka-banner {
+  background-image: url('img/index/osaka.jpg');
+}
+.nara-banner {
+  background-image: url('img/index/nara.jpg');
+}
+
+.seccion {
+  max-width: 80%;
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+  color:white;
+  background-color: var(--color-secondary);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.seccion:hover {
+  background-color: #1e6187;
+}
+
+.seccion-botones {
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+
+.seccion:hover .seccion-botones {
+  background-color: #1e6187;
+}
+
+.seccion-contenido {
+  display: none;
+  padding: 20px;
+  color:black;
+  background-color: white;
+  border: 1px solid white;
+  border-top: none;
+}
+
+.seccion.activo .seccion-contenido {
+  display: block;
+}
+
+.seccion.activo {
+  display: block;
+}
+
+/* Estilos para páginas de categorías */
+
+.gastro-banner {
+  background-image: url('img/index/gastronomia.jpg');
+}
+.arte-banner {
+  background-image: url('img/index/arte.jpg');
+  background-position: top;
+}
+.cultura-banner {
+  background-image: url('img/index/cultura.jpg');
+  background-position: top;
+}
+.templos-banner {
+  background-image: url('img/index/templos.jpg');
+}
+.historia-banner {
+  background-image: url('img/index/historia.jpg');
+  background-position: top;
+}
+
+#category-grid {
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+} 
+
+@media screen and (max-width: 768px) {
+  #category-grid {
+    width: 100%;
+    font-size: 0.8em;
+  }
+}
+
+#category-grid td {
+  width: 30%;
+  height: 0px;
+  padding-bottom: 30%;
+  position: relative;
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+  vertical-align: middle;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 2%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  opacity: 0.9;
+}
+
+.Takoyaki {
+  background-image: url('img/categ/takoyaki.jpg');
+  background-position: center;
+}
+.Okonomiyaki {
+  background-image: url('img/categ/okonomiyaki.jpg');
+  background-position: center;
+}
+.Kushikatsu {
+  background-image: url('img/categ/kushikatsu.jpg');
+  background-position: center;
+}
+.Kabuki {
+  background-image: url('img/categ/kabuki.jpg');
+}
+.Takarazuka {
+  background-image: url('img/categ/takarazuka.jpg');
+}
+.Ukiyo-e {
+  background-image: url('img/categ/ukiyo-e.jpg');
+}
+.Sado {
+  background-image: url('img/categ/sado.jpg');
+  background-position: center;
+}
+.Festivales {
+  background-image: url('img/categ/matsuri.jpg');
+}
+.Fushimi-inari {
+  background-image: url('img/categ/fushimi.jpg');
+}
+.Shitennoji {
+  background-image: url('img/categ/shitennouji.jpg');
+  background-position: center;
+}
+.Todaiji {
+  background-image: url('img/categ/todaiji.jpg');
+  background-position: center;
+}
+.Heian {
+  background-image: url('img/categ/heian.jpg');
+}
+.Naniwa {
+  background-image: url('img/categ/naniwa.jpg');
+}
+.Heijo {
+  background-image: url('img/categ/heijo.jpg');
+}
+
+
+#category-grid td a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 5vw;
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  opacity: 0.8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#category-grid td:hover {
+  background-color: var(--color-secondary);
+}
+
+#category-grid td:hover a {
+  color: #fff;
+}
+
+
+/* Estilos para páginas de individuales */
+
+.tako-banner {
+  background-image: url('img/categ/takoyaki.jpg');
+}
+.okonomi-banner {
+  background-image: url('img/categ/okonomiyaki.jpg');
+}
+.kushi-banner {
+  background-image: url('img/categ/kushikatsu.jpg');
+}
+.kabuki-banner {
+  background-image: url('img/categ/kabuki.jpg');
+  background-position: top;
+}
+.takara-banner {
+  background-image: url('img/categ/takarazuka.jpg');
+  background-position: top;
+}
+.ukiyo-banner {
+  background-image: url('img/categ/ukiyo-e.jpg');
+  background-position: top;
+}
+.matsuri-banner {
+  background-image: url('img/categ/matsuri.jpg');
+}
+.sado-banner {
+  background-image: url('img/categ/sado.jpg');
+}
+.fushimi-banner {
+  background-image: url('img/categ/fushimi.jpg');
+}
+.shiten-banner {
+  background-image: url('img/categ/shitennouji.jpg');
+}
+.todaiji-banner {
+  background-image: url('img/categ/todaiji.jpg');
+}
+.heian-banner {
+  background-image: url('img/categ/heian.jpg');
+}
+.heijo-banner {
+  background-image: url('img/categ/heijo.jpg');
+}
+.naniwa-banner {
+  background-image: url('img/categ/naniwa.jpg');
+}
+
+section h2 {
+  font-size: 36px;
+  background-color: white;
+  color: var(--color-secondary);
+  padding: 10px;
+  border-top: 5px solid var(--color-primary);
+  border-bottom: 5px solid var(--color-primary);
+  margin: 50px;
+  text-align: center;
+}
+
+section p {
+  background-color: var(--color-primary);
+  opacity: 0.8;
+  max-width: 1000px;
+  padding: 20px;
+  margin: 40px auto;
+  box-shadow: 2px 2px 5px var(--color-secondary);
+  text-align: center;
+  justify-content: center;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+#imagenes {
+  text-align: center;
+  margin: 20px;
+}
+
+#imagenes img {
+  max-width: 100%;
+  width: 300px;
+  margin: 20px;
+  flex: 1;
+  margin: 10px;
+  border: 2px solid var(--color-secondary);
+}
+
+#video {
+  padding: 50px 0;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#video h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#video iframe {
+  width: 640px;
+  height: 360px;
+}
+
+@media only screen and (max-width: 767px) {
+  #video iframe {
+    max-width: 70%;
+    height: auto;
+  }
+}
+
+footer {
+  background-color: var(--color-secondary);
+  padding: 20px;
+  color: white;
+  font-size: 10px;
+}
