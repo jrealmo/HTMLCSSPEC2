@@ -1,18 +1,18 @@
 
 /* Estilos generales */
 body {
---color-primary: #88c9f5;
---color-secondary: #2980b9;
-margin: 0 auto;
-padding: 0;
-font-family: Arial, sans-serif;
-background-color: #fff;
+  --color-primary: #88c9f5;
+  --color-secondary: #2980b9;
+  margin: 0 auto;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
 }
 
 .highlight {
-    background-color: var(--color-primary);
-    padding-top: 0.5rem;
-    text-align: center;
+  background-color: var(--color-primary);
+  padding-top: 0.5rem;
+  text-align: center;
 }
   
 .highlight h1 {
@@ -737,11 +737,20 @@ section p {
 }
 
 footer {
+  display: flex;
   margin-top: 10px;
   background-color: var(--color-secondary);
   padding: 20px;
   color: white;
-  font-size: 10px;
+  font-size: 2vw;
+  font-weight: bold;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-logo {
+  width: 15%;
+  height: 15%;
 }
 
 @keyframes logo-animation {
