@@ -1,0 +1,5 @@
+# Ignorar archivos generados por Parcel
+.parcel-cache/
+
+# Ignorar la carpeta node_modules
+node_modules/
