@@ -15,43 +15,44 @@ background-color: #fff;
     text-align: center;
 }
   
-  .highlight h1 {
-    margin-bottom: 1.5rem;
-    font-family: Arial, sans-serif;
-    color: white;
-    text-shadow: none;
-  }
+.highlight h1 {
+  margin-bottom: 1.5rem;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-shadow: none;
+  -webkit-text-stroke: 1.5px var(--color-secondary);
+}
 
-  .highlight .logo {
-    vertical-align: middle;
-    width: 30%;
-  }
-  
-  .highlight .banner {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-  }
-  
-  .highlight .button a {
-    display: block;
-    width: 200px;
-    margin: 0 auto;
-    padding: 10px;
-    background-color: var(--color-secondary);
-    font-size: 25px;
-    font-weight: bold;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    border: 2px solid var(--color-secondary);
-    transition: all 0.3s ease;
-  }
-  
-  .highlight .button a:hover {
-    background-color: #333;
-    color: #fff;
-    border-color: #fff;
-  }
+.highlight .logo {
+  vertical-align: middle;
+  width: 30%;
+}
+
+.highlight .banner {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.highlight .button a {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: var(--color-secondary);
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  border: 2px solid var(--color-secondary);
+  transition: all 0.3s ease;
+}
+
+.highlight .button a:hover {
+  background-color: #333;
+  color: #fff;
+  border-color: #fff;
+}
 
 h1 {
     background-color: var(--color-primary);
@@ -282,6 +283,7 @@ nav a:hover {
     background-repeat: no-repeat;
     background-blend-mode: multiply;
     opacity: 0.8;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
   }
 
   #grid td.gastronomia {
@@ -546,6 +548,7 @@ nav a:hover {
   background-repeat: no-repeat;
   background-blend-mode: multiply;
   opacity: 0.9;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
 }
 
 .Takoyaki {
@@ -708,6 +711,7 @@ section p {
   margin: 10px;
   border: 2px solid var(--color-secondary);
 }
+
 
 #video {
   padding: 50px 0;
