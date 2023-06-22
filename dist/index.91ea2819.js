@@ -1,2 +1,2 @@
 !function(){const e=document.querySelectorAll(".seccion");document.querySelectorAll(".seccion-botones");e.forEach(((o,c)=>{o.addEventListener("click",(()=>{const c=o.querySelector(".seccion-contenido");"none"===c.style.display?(e.forEach((e=>{e.querySelector(".seccion-contenido").style.display="none"})),c.style.display="block"):c.style.display="none"}))}))}();
-//# sourceMappingURL=index.0789d342.js.map
+//# sourceMappingURL=index.91ea2819.js.map
