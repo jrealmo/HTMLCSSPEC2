@@ -287,28 +287,28 @@ nav a:hover {
   }
 
   #grid td.gastronomia {
-    background-image: url('img/index/gastronomia.jpg');
+    background-image: url('img/index/gastronomia.webp');
     background-position: center;
   }
   
   #grid td.arte {
-    background-image: url('img/index/arte.jpg');
+    background-image: url('img/index/arte.webp');
     background-position: top;
   }
   
   #grid td.cultura {
-    background-image: url('img/index/cultura.jpg');
+    background-image: url('img/index/cultura.webp');
     background-position: top;
 
   }
   
   #grid td.templos {
-    background-image: url('img/index/templos.jpg');
+    background-image: url('img/index/templos.webp');
     background-position: center;
   }
   
   #grid td.historia {
-    background-image: url('img/index/historia.jpg');
+    background-image: url('img/index/historia.webp');
     background-position: center;
   }
   
@@ -423,13 +423,13 @@ nav a:hover {
   }
 
 .kyoto-banner {
-  background-image: url('img/index/kyoto.jpg');
+  background-image: url('img/index/kyoto.webp');
 }
 .osaka-banner {
-  background-image: url('img/index/osaka.jpg');
+  background-image: url('img/index/osaka.webp');
 }
 .nara-banner {
-  background-image: url('img/index/nara.jpg');
+  background-image: url('img/index/nara.webp');
 }
 
 .seccion {
@@ -501,21 +501,21 @@ nav a:hover {
 /* Estilos para páginas de categorías */
 
 .gastro-banner {
-  background-image: url('img/index/gastronomia.jpg');
+  background-image: url('img/index/gastronomia.webp');
 }
 .arte-banner {
-  background-image: url('img/index/arte.jpg');
+  background-image: url('img/index/arte.webp');
   background-position: top;
 }
 .cultura-banner {
-  background-image: url('img/index/cultura.jpg');
+  background-image: url('img/index/cultura.webp');
   background-position: top;
 }
 .templos-banner {
-  background-image: url('img/index/templos.jpg');
+  background-image: url('img/index/templos.webp');
 }
 .historia-banner {
-  background-image: url('img/index/historia.jpg');
+  background-image: url('img/index/historia.webp');
   background-position: top;
 }
 
@@ -552,52 +552,52 @@ nav a:hover {
 }
 
 .Takoyaki {
-  background-image: url('img/categ/takoyaki.jpg');
+  background-image: url('img/categ/takoyaki.webp');
   background-position: center;
 }
 .Okonomiyaki {
-  background-image: url('img/categ/okonomiyaki.jpg');
+  background-image: url('img/categ/okonomiyaki.webp');
   background-position: center;
 }
 .Kushikatsu {
-  background-image: url('img/categ/kushikatsu.jpg');
+  background-image: url('img/categ/kushikatsu.webp');
   background-position: center;
 }
 .Kabuki {
-  background-image: url('img/categ/kabuki.jpg');
+  background-image: url('img/categ/kabuki.webp');
 }
 .Takarazuka {
-  background-image: url('img/categ/takarazuka.jpg');
+  background-image: url('img/categ/takarazuka.webp');
 }
 .Ukiyo-e {
-  background-image: url('img/categ/ukiyo-e.jpg');
+  background-image: url('img/categ/ukiyo-e.webp');
 }
 .Sado {
-  background-image: url('img/categ/sado.jpg');
+  background-image: url('img/categ/sado.webp');
   background-position: center;
 }
 .Festivales {
-  background-image: url('img/categ/matsuri.jpg');
+  background-image: url('img/categ/matsuri.webp');
 }
 .Fushimi-inari {
-  background-image: url('img/categ/fushimi.jpg');
+  background-image: url('img/categ/fushimi.webp');
 }
 .Shitennoji {
-  background-image: url('img/categ/shitennouji.jpg');
+  background-image: url('img/categ/shitennouji.webp');
   background-position: center;
 }
 .Todaiji {
-  background-image: url('img/categ/todaiji.jpg');
+  background-image: url('img/categ/todaiji.webp');
   background-position: center;
 }
 .Heian {
-  background-image: url('img/categ/heian.jpg');
+  background-image: url('img/categ/heian.webp');
 }
 .Naniwa {
-  background-image: url('img/categ/naniwa.jpg');
+  background-image: url('img/categ/naniwa.webp');
 }
 .Heijo {
-  background-image: url('img/categ/heijo.jpg');
+  background-image: url('img/categ/heijo.webp');
 }
 
 
@@ -629,49 +629,49 @@ nav a:hover {
 /* Estilos para páginas de individuales */
 
 .tako-banner {
-  background-image: url('img/categ/takoyaki.jpg');
+  background-image: url('img/categ/takoyaki.webp');
 }
 .okonomi-banner {
-  background-image: url('img/categ/okonomiyaki.jpg');
+  background-image: url('img/categ/okonomiyaki.webp');
 }
 .kushi-banner {
-  background-image: url('img/categ/kushikatsu.jpg');
+  background-image: url('img/categ/kushikatsu.webp');
 }
 .kabuki-banner {
-  background-image: url('img/categ/kabuki.jpg');
+  background-image: url('img/categ/kabuki.webp');
   background-position: top;
 }
 .takara-banner {
-  background-image: url('img/categ/takarazuka.jpg');
+  background-image: url('img/categ/takarazuka.webp');
   background-position: top;
 }
 .ukiyo-banner {
-  background-image: url('img/categ/ukiyo-e.jpg');
+  background-image: url('img/categ/ukiyo-e.webp');
   background-position: top;
 }
 .matsuri-banner {
-  background-image: url('img/categ/matsuri.jpg');
+  background-image: url('img/categ/matsuri.webp');
 }
 .sado-banner {
-  background-image: url('img/categ/sado.jpg');
+  background-image: url('img/categ/sado.webp');
 }
 .fushimi-banner {
-  background-image: url('img/categ/fushimi.jpg');
+  background-image: url('img/categ/fushimi.webp');
 }
 .shiten-banner {
-  background-image: url('img/categ/shitennouji.jpg');
+  background-image: url('img/categ/shitennouji.webp');
 }
 .todaiji-banner {
-  background-image: url('img/categ/todaiji.jpg');
+  background-image: url('img/categ/todaiji.webp');
 }
 .heian-banner {
-  background-image: url('img/categ/heian.jpg');
+  background-image: url('img/categ/heian.webp');
 }
 .heijo-banner {
-  background-image: url('img/categ/heijo.jpg');
+  background-image: url('img/categ/heijo.webp');
 }
 .naniwa-banner {
-  background-image: url('img/categ/naniwa.jpg');
+  background-image: url('img/categ/naniwa.webp');
 }
 
 section h2 {
